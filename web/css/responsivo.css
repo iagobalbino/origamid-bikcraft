@@ -1,0 +1,41 @@
+/* Estilo para tablets */
+
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+
+}
+
+/* Estilo para smartphones */
+
+@media only screen and (max-width: 787px) {
+
+	.header {
+		position: relative;
+	}
+
+	.header img {
+		margin: 0 auto;
+	}
+
+	.header_menu {
+		text-align: center;
+	}
+
+	.header_menu ul li {
+		margin: 0;
+	}
+
+	.header_menu ul li a {
+		color: #000;
+		border: 2px solid #000;
+		width: 140px;
+		display: block;
+		float: left;
+  	font-weight: bold;
+  	text-transform: uppercase;
+  	letter-spacing: .1em;
+  	font-size: 16px;
+  	line-height: 20px;
+  	padding: 10px 0;
+	}
+
+}
