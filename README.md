@@ -6,9 +6,16 @@ Este projeto faz parte do curso Webdesign Compelto da Origamid.
 
 ## Home
 
+![Bikcraft Home](https://github.com/iagobalbino/origamid-bikcraft/blob/master/gifs/bikcraft_home.gif)
 ## Produtos
+
+![Bikcraft Produtos](https://github.com/iagobalbino/origamid-bikcraft/blob/master/gifs/bikcraft_produtos.gif)
 
 ## Portfólio
 
+![Bikcraft Portólio](https://github.com/iagobalbino/origamid-bikcraft/blob/master/gifs/bikcraft_portfolio.gif)
+
 ## Contato
+
+![Bikcraft Contato](https://github.com/iagobalbino/origamid-bikcraft/blob/master/gifs/bikcraft_contato.gif)
 
